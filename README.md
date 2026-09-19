@@ -4,9 +4,6 @@
 **School of Software Engineering**
 **Course:** ShP-2216 Software Design Patterns
 **Academic Year:** 2026–2027
-**Programme:** 6B06102 Software Engineering
-**Year:** 2, Trimester 4
-
 **Student:** Zhuldyz Yelbayeva
 **Group:** SE-2522
 
